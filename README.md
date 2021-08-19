@@ -1,7 +1,7 @@
-# Primeiro contato com HTML e STYLE #
+# First contact with HTML and STYLE #
 
 
-# Esse foi meu primeiro contato com HTML e STYLE #
+# This was my first contact with HTML and STYLE #
 <img src="./assets/Primeiro-contato-html.PNG" alt="print-project">
 
 
